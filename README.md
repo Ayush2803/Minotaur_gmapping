@@ -1,2 +1,2 @@
-# Minotaur_gmapping
-Mapping and locallisation using gmapping and amcl on minotaur robot.
+# mybot_ws
+URDF model for Gazebo integrated with ROS
